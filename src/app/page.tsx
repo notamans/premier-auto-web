@@ -39,7 +39,7 @@ export default function Home() {
 
       {/* Hero Section */}
       <section className="relative min-h-screen flex items-center justify-center">
-        <div className="absolute inset-0 bg-black/75"></div>
+        <div className="absolute inset-0 bg-black/50 z-10"></div>
         <div
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{
